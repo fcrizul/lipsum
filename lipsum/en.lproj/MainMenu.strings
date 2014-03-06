@@ -1,0 +1,123 @@
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "Bring All to Front";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "Minimize";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "Window";
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "lipsum"; ObjectID = "56"; */
+"56.title" = "lipsum";
+
+/* Class = "NSMenu"; title = "lipsum"; ObjectID = "57"; */
+"57.title" = "lipsum";
+
+/* Class = "NSMenuItem"; title = "About lipsum"; ObjectID = "58"; */
+"58.title" = "About lipsum";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
+"72.title" = "Open…";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"73.title" = "Close";
+
+/* Class = "NSMenuItem"; title = "Save…"; ObjectID = "75"; */
+"75.title" = "Save…";
+
+/* Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "77"; */
+"77.title" = "Page Setup...";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "78"; */
+"78.title" = "Print…";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "File";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "82"; */
+"82.title" = "New";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"129.title" = "Preferences…";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Hide lipsum"; ObjectID = "134"; */
+"134.title" = "Hide lipsum";
+
+/* Class = "NSMenuItem"; title = "Quit lipsum"; ObjectID = "136"; */
+"136.title" = "Quit lipsum";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "Hide Others";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "197"; */
+"197.title" = "Copy";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "198"; */
+"198.title" = "Select All";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "205"; */
+"205.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "217"; */
+"217.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
+"239.title" = "Zoom";
+
+/* Class = "NSWindow"; title = "lipsum"; ObjectID = "371"; */
+"371.title" = "lipsum";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "490"; */
+"490.title" = "Help";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "491"; */
+"491.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "lipsum Help"; ObjectID = "492"; */
+"492.title" = "lipsum Help";
+
+/* Class = "NSButtonCell"; title = "Lists"; ObjectID = "4Pb-lu-w5G"; */
+"4Pb-lu-w5G.title" = "Lists";
+
+/* Class = "NSButtonCell"; title = "Start with 'Lorem \nipsum dolor sit amet...'"; ObjectID = "Apy-U9-jIg"; */
+"Apy-U9-jIg.title" = "Start with 'Lorem \nipsum dolor sit amet...'";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "B7t-AB-6Re"; */
+"B7t-AB-6Re.title" = "Radio";
+
+/* Class = "NSTextFieldCell"; title = "www.lipsum.com"; ObjectID = "FPe-Br-19e"; */
+"FPe-Br-19e.title" = "www.lipsum.com";
+
+/* Class = "NSButtonCell"; title = "Generate Lorem Ipsum"; ObjectID = "Tz2-QD-Kfv"; */
+"Tz2-QD-Kfv.title" = "Generate Lorem Ipsum";
+
+/* Class = "NSButtonCell"; title = "Bytes"; ObjectID = "WPt-Rc-rqV"; */
+"WPt-Rc-rqV.title" = "Bytes";
+
+/* Class = "NSButtonCell"; title = "Words"; ObjectID = "WtM-8L-iG3"; */
+"WtM-8L-iG3.title" = "Words";
+
+/* Class = "NSButtonCell"; title = "Paragraphs"; ObjectID = "k64-i3-TvM"; */
+"k64-i3-TvM.title" = "Paragraphs";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "m8A-Li-hIZ"; */
+"m8A-Li-hIZ.title" = "Box";
